@@ -26,3 +26,5 @@ Let's speak about lists
 3. end item
 
 Starting to learn version control system
+
+OK, we've got a 2-nd lesson just now.
