@@ -28,3 +28,5 @@ Let's speak about lists
 Starting to learn version control system
 
 OK, we've got a 2-nd lesson just now.
+
+So, this is cool!
