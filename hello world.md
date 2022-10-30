@@ -37,4 +37,6 @@ There is MASTER branch
 
 Are we in a "bypass_1" branch?
 Yes! We are!!! 
-Oh! 2 strings were Merged !!!
+
+Bypass_1 merged into master
+Oh! 2 strings were added !!!
