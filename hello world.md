@@ -30,3 +30,7 @@ Starting to learn version control system
 OK, we've got a 2-nd lesson just now.
 
 So, this is cool!
+
+
+Now we're starting training for branches in git
+There is MASTER branch 
