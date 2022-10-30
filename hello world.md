@@ -37,6 +37,6 @@ There is MASTER branch
 
 Are we in a "bypass_1" branch?
 Yes! We are!!! 
-
-Bypass_1 merged into master
-Oh! 2 strings were added !!!
+Now we're checking a collision
+Providing a collision string 1
+Providing a collision string 2
