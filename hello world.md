@@ -42,3 +42,11 @@ Yes! We are!!!
 Now we're checking a collision
 Providing a collision string 1
 Providing a collision string 2
+
+
+
+
+
+there is the conflicting line. It will be rejected.
+## branch bypass_3
+line #50 is formed for a collision intentionally... 
