@@ -42,3 +42,9 @@ Yes! We are!!!
 Now we're checking a collision
 Providing a collision string 1
 Providing a collision string 2
+
+
+## branch bypass_2
+Well,  there is the second branch for training and testing
+Let us see what will be happened...
+this string will generate a collision with branch bypass_3
