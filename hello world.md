@@ -25,6 +25,8 @@ Let's speak about lists
 2. item 2
 3. end item
 
+# Семинар 2
+
 Starting to learn version control system
 
 OK, we've got a 2-nd lesson just now.
