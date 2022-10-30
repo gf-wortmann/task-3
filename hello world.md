@@ -34,3 +34,5 @@ So, this is cool!
 
 Now we're starting training for branches in git
 There is MASTER branch 
+
+Are we in a "bypass_1" branch?
