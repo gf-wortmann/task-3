@@ -51,3 +51,6 @@ this string will generate a collision with branch bypass_3
 
 ## bypass 4
 Just a line without collision
+
+## now in bypass_5
+no collision here again
