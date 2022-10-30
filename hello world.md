@@ -48,3 +48,6 @@ Providing a collision string 2
 Well,  there is the second branch for training and testing
 Let us see what will be happened...
 this string will generate a collision with branch bypass_3
+
+## bypass 4
+Just a line without collision
