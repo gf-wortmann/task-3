@@ -37,3 +37,6 @@ There is MASTER branch
 
 Are we in a "bypass_1" branch?
 Yes! We are!!! 
+Now we're checking a collision
+Providing a collision string 1
+Providing a collision string 2
